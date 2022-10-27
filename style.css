@@ -1,0 +1,19 @@
+body
+{
+    background-color: bisque;
+}
+
+p
+
+{
+color:green;
+font-weight: bold;
+font-size: larger;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+img
+{
+    content: url("Projekt.jfif");
+    width: 400px;
+}
